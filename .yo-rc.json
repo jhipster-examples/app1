@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.kloudlearnapp1.demo"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "microservice",
+    "baseName": "app1",
+    "packageName": "com.kloudlearnapp1.demo",
+    "packageFolder": "com/kloudlearnapp1/demo",
+    "serverPort": "8081",
+    "authenticationType": "uaa",
+    "uaaBaseName": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTdhNzVmZWNmZDE1MTM4N2ZhNDlmNDg3ZTYxMGY5ZDNjOGRiYjBiNGQ3N2I2NGQ1OTNjN2RjMDljMjkwZTc0MWIyMTc1ODVhMGIzY2IxYzhkYTdhYTU1NTVjNWQ4NWEyNTc3YWVhYTQ3NDJiNWNhMWQ2MWQ5MTBkN2Q3ZTk4NGE=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
